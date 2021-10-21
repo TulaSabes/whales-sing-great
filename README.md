@@ -4,7 +4,7 @@
 
 #### ✒️ By Tula Sabes and Chris Nakayama
 
-## 📋 Description
+## 📋 The objective of this project was to become comfortable with the basic elements of Bootstrap. 
 
 [A Website that demonstrates the abilites of Bootsrap]
 
@@ -34,7 +34,9 @@ Please feel free to reach out to me anytime at <Chris Nakayama >
 
 ## 💾 Technologies Used
 
-* [...]
+* HTML
+* CSS
+* Bootstrap 
 
 ### License
 
