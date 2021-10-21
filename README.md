@@ -30,7 +30,7 @@ This project has no known bugs.
 
 ## ☎️ Support and Contact Details
 
-Please feel free to reach out to me anytime at <Coygriffi@gmail.com>
+Please feel free to reach out to me anytime at <Chris Nakayama >
 
 ## 💾 Technologies Used
 
